@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shin Thant Tun.</h1>
-<h3 align="center">Just a nerdy guy who interested in Math , Science and Machine Learning.</h3>
+<h3 align="center">Just a nerdy guy who interested in Math , Physics and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Travelers**
 
