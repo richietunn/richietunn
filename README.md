@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/sopkei](https://www.facebook.com/sopkei).
 
-- 📫 How to reach me **richietunn@gmail.com**
+- 📫 How to reach me **richietunn@gmail.com**.
 
 - ⚡ Fun fact **Passionate about Math and Physics.**
 
