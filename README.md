@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Computer Vision.**
 
-- 📝 I regularly write articles on [https://www.facebook.com/sopkei](https://www.facebook.com/sopkei)
+- 📝 I regularly write articles on [https://www.facebook.com/sopkei](https://www.facebook.com/sopkei).
 
 - 📫 How to reach me **richietunn@gmail.com**
 
-- ⚡ Fun fact **Passionate about Math and Physics**
+- ⚡ Fun fact **Passionate about Math and Physics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
