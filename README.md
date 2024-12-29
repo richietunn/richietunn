@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋, I'm Shin Thant Tun.</h1>
 <h3 align="center">Just a nerdy guy who interested in Math , Physics and Machine Learning.</h3>
 
-- 🔭 I’m currently working on **Travelers**
-
 - 🌱 I’m currently learning **Computer Vision.**
 
 - 📝 I regularly write articles on [https://www.facebook.com/sopkei](https://www.facebook.com/sopkei)
 
-- 📫 How to reach me **shinthanthtun00@gmail.com**
+- 📫 How to reach me **richietunn@gmail.com**
 
-- ⚡ Fun fact **I am a lazy shitty guy.**
+- ⚡ Fun fact **Passionate about Math and Physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
